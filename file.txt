@@ -2,3 +2,5 @@ Some text1
 Some text2
 
 branch2text
+maintext
+
