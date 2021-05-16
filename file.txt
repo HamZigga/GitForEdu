@@ -3,4 +3,3 @@ Some text2
 maintext
 branch2text
 
-branch1text
